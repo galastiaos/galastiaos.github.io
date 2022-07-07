@@ -1,1 +1,2 @@
-
+AuthType Basic
+AuthName "Password Protected Area"
